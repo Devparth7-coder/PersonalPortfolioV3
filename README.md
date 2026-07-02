@@ -9,9 +9,6 @@
 [![Lighthouse Score](https://img.shields.io/badge/Lighthouse-99%2F100%2F100-00C853?style=for-the-badge&logo=lighthouse)](https://developers.google.com/web/tools/lighthouse)
 [![Vercel Ready](https://img.shields.io/badge/Vercel-Ready-000000?style=for-the-badge&logo=vercel)](https://vercel.com/)
 
-An award-winning, cinematic full-stack personal portfolio and digital flagship platform engineered for **Dev Parth** (AI Engineer • Full Stack Developer • Competitive Programmer • Researcher based in Gorakhpur, Uttar Pradesh, India).
-
-Designed with architectural rigor comparable to digital platforms by engineers at **OpenAI, Vercel, Stripe, Apple, Anthropic, Framer, and Linear**.
 
 ---
 
